@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Sample 2</string>
+    <string name="change_fruit">Change Fruit</string>
+    <string name="select_random_fruit_for_edittext">Select random fruit for EditText</string>
+    <string name="display_edittext_content">Display EditText Content</string>
+    <string name="enter_a_fruit_name">Enter a fruit name</string>
+</resources>

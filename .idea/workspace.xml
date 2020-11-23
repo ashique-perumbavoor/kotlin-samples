@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b593365c-3e2c-4e5a-90a7-eb3a0c30e819" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/RecyclerView/Kotlin-RecyclerView-Example/app/src/main/java/com/codingwithmitch/kotlinrecyclerviewexample/BlogRecyclerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerView/Kotlin-RecyclerView-Example/app/src/main/java/com/codingwithmitch/kotlinrecyclerviewexample/BlogRecyclerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerView/Kotlin-RecyclerView-Example/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerView/Kotlin-RecyclerView-Example/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecyclerView/Kotlin-RecyclerView-Example/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RecyclerView/Kotlin-RecyclerView-Example/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kETIMUoOCNRywbrPLO6kFFnsaK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MVVM Philip Lackner/MVVMShoppingList" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b593365c-3e2c-4e5a-90a7-eb3a0c30e819" name="Default Changelist" comment="" />
+      <created>1605264670579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605264670579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605264706631">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605264706631" />
+  </component>
+</project>

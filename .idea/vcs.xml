@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM Philip Lackner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM Philip Lackner/MVVMShoppingList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerView/Kotlin-RecyclerView-Example" vcs="Git" />
+  </component>
+</project>
